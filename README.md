@@ -1,16 +1,16 @@
 # Experiment--02-Implementation-of-combinational-logic
-Implementation of combinational logic gates
+
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
- F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
  
  
  
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+   Hardware – PCs, Cyclone II , USB flasher
+   Software – Quartus prime
 
 
 ## Theory
@@ -55,13 +55,14 @@ assign F1 = p | q | r | s | t;
 endmodule
 ````
 ## RTL realization
-![image](https://github.com/sujigunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/119559822/552a5c5e-9100-430c-a6db-aef98a192d3a)
+![Screenshot 2023-08-25 100858](https://github.com/sujigunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/119559822/39d8e82b-1986-4090-895a-5264ae96a9c3)
 
 ## Output:
 ![Screenshot 2023-08-25 093524](https://github.com/sujigunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/119559822/51fcb51e-45cc-4011-90fb-d378af321103)
 
+## Truth Table:
+![Screenshot 2023-08-25 094923](https://github.com/sujigunasekar/Experiment--02-Implementation-of-combinational-logic-/assets/119559822/ba6148df-1755-413c-94d9-cf5c79c43a73)
 
-## Timing Diagram
 
 
 
